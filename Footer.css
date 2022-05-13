@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 10px;
+
+
+}
+
+
+#bexruz{
+    color: white;
+}
+
+#bexruz:hover {
+    color: orchid;
+}
+
+.bgfooter {
+    background: #222831;
+}
