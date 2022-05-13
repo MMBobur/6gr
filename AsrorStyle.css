@@ -1,0 +1,76 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.asrorDiv {
+	background-image: url("https://technext.github.io/feane/images/hero-bg.jpg");
+	background-size: 100%;
+	width: 100%;
+	height: 100vh;
+}
+.asrorContianer {
+	padding: 30px 13%;
+}
+.asrorNav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	/* border: 1px solid rgb(255, 255, 255); */
+}
+.asrorNavItemOne h2 {
+	color: white;
+	font-family: "Segoe Script";
+}
+.asrorNavItemTwo ul {
+	width: 25vw;
+	justify-content: space-between;
+	list-style-type: none;
+	display: flex;
+	/* border: 1px solid rgb(255, 255, 255); */
+}
+.asrorNavItemTwo li a {
+	text-decoration: none;
+	color: white;
+}
+.asrorNavItemTwo li a:hover {
+	color: rgb(253, 232, 0);
+}
+.asrorNavItemThree {
+	display: flex;
+	width: 18vw;
+	align-items: center;
+	justify-content: space-between;
+
+	/* border: 1px solid rgb(217, 44, 44); */
+}
+.asrorbtn {
+	background-color: #ffbe33;
+	color: white;
+	font-weight: 500;
+	padding: 12px;
+	width: 10vw;
+	border-radius: 50px;
+}
+.asrorbtn:hover {
+	background-color: #ffbe33b2;
+}
+.asrorCarusel {
+	padding-top: 17%;
+	color: white;
+}
+.asrorCarusel h1 {
+	font-family: "Segoe Script";
+
+	font-size: 50px;
+}
+.asrorCarusel h5 {
+	max-width: 43%;
+}
+#asrorjonicon {
+	color: white;
+}
+#asrorjonicon:hover {
+	color: #ffbe33;
+}
