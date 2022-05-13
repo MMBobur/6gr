@@ -39,7 +39,10 @@
 }
 .asrorNavItemThree {
 	display: flex;
-	width: 10vw;
+	width: 18vw;
+	align-items: center;
+	justify-content: space-between;
+
 	/* border: 1px solid rgb(217, 44, 44); */
 }
 .asrorbtn {
@@ -64,4 +67,10 @@
 }
 .asrorCarusel h5 {
 	max-width: 43%;
+}
+#asrorjonicon {
+	color: white;
+}
+#asrorjonicon:hover {
+	color: #ffbe33;
 }
