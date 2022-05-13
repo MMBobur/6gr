@@ -6,12 +6,10 @@
     margin-left: 80px;
 }
 .Ahmadullo_banner_main {
-    margin-top: 20px;
     margin-bottom: 20px;
     background: #222831;
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    padding-bottom: 90px;
 }
 .Ahmadullo_d_flex {
    display: flex;
